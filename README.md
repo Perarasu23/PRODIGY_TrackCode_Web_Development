@@ -1,4 +1,5 @@
 PRODIGY_TrackCode_Web_Development_WD_02
+
 Creating a stopwatch web application involves leveraging HTML for structure, CSS for styling, and JavaScript for functionality. CSS enhances the visual presentation, allowing customization of colors and layouts for a polished appearance. The stopwatch application serves as a practical tool for measuring time intervals accurately.
 1.HTML Structure: Establish the layout and structure of the stopwatch using HTML elements.
 

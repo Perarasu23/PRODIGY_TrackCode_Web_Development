@@ -19,16 +19,16 @@ PRODIGY_TrackCode_Web_Development_WD_03
 
 Creating a tic-tac-toe web application entails leveraging HTML, CSS, and JavaScript to deliver an interactive gaming experience. HTML provides the structural framework for organizing the game board and user interface elements. JavaScript powers the game logic, enabling functions to handle user clicks, track game state, and determine winning conditions.
 
-HTML Structure: Develop the game board layout and user interface elements using HTML.
+1.HTML Structure: Develop the game board layout and user interface elements using HTML.
 
-CSS Styling: Style the game elements and layout using CSS to enhance visual presentation and aesthetics.
+2.CSS Styling: Style the game elements and layout using CSS to enhance visual presentation and aesthetics.
 
-JavaScript Game Logic: Implement JavaScript functions to manage user interactions, track game progress, and determine win conditions.
+3.JavaScript Game Logic: Implement JavaScript functions to manage user interactions, track game progress, and determine win conditions.
 
-Player Interaction: Enable players to make moves by interacting with the game board, updating the game state accordingly.
+4.Player Interaction: Enable players to make moves by interacting with the game board, updating the game state accordingly.
 
-Win Condition Checks: Incorporate logic to check for winning combinations after each move to determine game outcomes.
+5.Win Condition Checks: Incorporate logic to check for winning combinations after each move to determine game outcomes.
 
-Single or Multiplayer Options: Provide options for users to play against each other or against an AI opponent, catering to different preferences.
+6.Single or Multiplayer Options: Provide options for users to play against each other or against an AI opponent, catering to different preferences.
 
-Responsive Design: Ensure the game interface adjusts seamlessly across various devices and screen sizes for an optimal user experience.
+7.Responsive Design: Ensure the game interface adjusts seamlessly across various devices and screen sizes for an optimal user experience.

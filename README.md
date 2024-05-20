@@ -32,3 +32,21 @@ Creating a tic-tac-toe web application entails leveraging HTML, CSS, and JavaScr
 6.Single or Multiplayer Options: Provide options for users to play against each other or against an AI opponent, catering to different preferences.
 
 7.Responsive Design: Ensure the game interface adjusts seamlessly across various devices and screen sizes for an optimal user experience.
+
+PRODIGY_TrackCode_Web_Development_WD_05
+
+Utilizing HTML, CSS, and JavaScript, create a dynamic web page fetching weather data from a specified location or user input. Display current weather conditions, temperature, and pertinent details sourced from a weather API. Ensure user-friendly interface design with intuitive controls for location input. Implement responsive layout for seamless viewing across devices. Utilize CSS gradients for visual appeal and modern aesthetics. Employ JavaScript to handle API requests and update weather information in real-time. Enhance user experience by providing accurate and timely weather updates.
+
+1.HTML Structure: Develop the webpage structure using HTML, including elements for displaying weather data and user input.
+
+2.CSS Styling: Apply CSS to create visually appealing design, incorporating gradients for modern aesthetics and enhancing user experience.
+
+3.JavaScript Functionality: Implement JavaScript to fetch weather data from a weather API based on user input or location, ensuring dynamic content updates.
+
+4.User Input Handling: Provide functionality for users to input their location or select from available options for fetching weather data.
+
+5.Weather Data Display: Design the webpage to prominently display current weather conditions, temperature, and other relevant information fetched from the API.
+
+6.Responsive Design: Ensure the webpage layout adjusts seamlessly to different screen sizes and devices for optimal viewing experience.
+
+7.API Integration: Integrate with a weather API to retrieve accurate and up-to-date weather information based on user input or location detection.
